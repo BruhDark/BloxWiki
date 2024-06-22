@@ -2,33 +2,60 @@
 
 ## Administration Category
 
-{% page-ref page="addons.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="grouplock.md" %}
+{% content-ref url="grouplock.md" %}
+[grouplock.md](grouplock.md)
+{% endcontent-ref %}
 
-{% page-ref page="setup.md" %}
+{% content-ref url="setup.md" %}
+[setup.md](setup.md)
+{% endcontent-ref %}
 
-{% page-ref page="logchannel.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="prefix.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="reversesearch.md" %}
+{% content-ref url="reversesearch.md" %}
+[reversesearch.md](reversesearch.md)
+{% endcontent-ref %}
 
-{% page-ref page="disable.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="ignorechannel.md" %}
+{% content-ref url="ignorechannel.md" %}
+[ignorechannel.md](ignorechannel.md)
+{% endcontent-ref %}
 
-{% page-ref page="restrict.md" %}
+{% content-ref url="restrict.md" %}
+[restrict.md](restrict.md)
+{% endcontent-ref %}
 
-{% page-ref page="settings.md" %}
+{% content-ref url="settings.md" %}
+[settings.md](settings.md)
+{% endcontent-ref %}
 
-{% page-ref page="nickname.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="verifychannel.md" %}
+{% content-ref url="verifychannel.md" %}
+[verifychannel.md](verifychannel.md)
+{% endcontent-ref %}
 
-{% page-ref page="updateuser.md" %}
+{% content-ref url="updateuser.md" %}
+[updateuser.md](updateuser.md)
+{% endcontent-ref %}
 
-## Return to Categories
+### Return to Categories
 
-{% page-ref page="../" %}
-
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
